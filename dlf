@@ -1,0 +1,4 @@
+$ git clone https://github.com/koalazak/dorita980.git
+$ cd dorita980
+$ npm install
+$ npm run getpassword 192.168.1.168
